@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar Behera</h1>
 <h3 align="center">I am Student at National Institute Of Technology, Rourkela</h3>
 
-<!-- <img align="right" alt="coding" width="400" src="
-https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- -->
+<img align="right" alt="coding" width="400" src="
+https://user-images.githubusercontent.com/113046759/211134437-a4536b07-f0fa-43b9-b669-06c2fcad0896.gif">
+ 
+ 
 - 🌱 I’m currently learning **React.js, Node.js,MongoDB**
 
 - 📫 How to reach me **surajkumarbehera110@gmail.com**
