@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skb08&show_icons=true&locale=en" alt="skb08" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skb08&" alt="skb08" /></p>
 
-[![Skb08's GitHub | Dependencies](https://stats.quine.sh/Skb08/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Skb08) &nbsp;&nbsp;
+[![Skb08's GitHub | Dependencies](https://stats.quine.sh/Skb08/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Skb08) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Skb08's GitHub | Stats](https://stats.quine.sh/Skb08/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Skb08)
 
 
